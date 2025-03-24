@@ -1,4 +1,4 @@
-## Hi there 👋
+## 💬 Currently working on AI, ML and other solutions for web-comics and the sort. Reach out on GitHub. No collabing as of now.
 
 <!--
 **thradnea/thradnea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
