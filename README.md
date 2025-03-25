@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thradnea&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117">
+<img src="https://github-readme-stats.vercel.app/api?username=thradnea&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&custom_title=Thradnea's%20GitHub%20Stats">
 </p>
 
 <p align="center">
