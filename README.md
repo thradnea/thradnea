@@ -1,16 +1,19 @@
-## 💬 Currently working on AI, ML and other solutions for web-comics and the sort. Reach out on GitHub. No collabing as of now.
+<p align="center">
+  <a href="https://github.com/thradnea">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+solutions+for+Web-Comics;Automated+Content+Discovery+Tools;Currently+not+collaborating;&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=22">
+  </a>
+</p>
 
-<!--
-**thradnea/thradnea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thradnea&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  📫 <strong>Email:</strong> <a href="mailto:aironska2005@gmail.com">aironska2005@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mysql,linux,arch&perline=6">
+</p>
