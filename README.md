@@ -8,9 +8,3 @@
 <p align="center">
   📫 <strong>Email:</strong> <a href="mailto:aironska2005@gmail.com">aironska2005@gmail.com</a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mysql,linux,arch&perline=6">
-</p>
